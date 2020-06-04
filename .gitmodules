@@ -1,0 +1,18 @@
+[submodule "metaf"]
+	path = metaf
+	url = https://gitlab.com/nnaumenko/metaf
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest
+[submodule "cxxopts"]
+	path = cxxopts
+	url = https://github.com/jarro2783/cxxopts
+[submodule "magic_enum"]
+	path = magic_enum
+	url = https://github.com/Neargye/magic_enum
+[submodule "date"]
+	path = date
+	url = https://github.com/HowardHinnant/date
